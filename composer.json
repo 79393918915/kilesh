@@ -1,0 +1,29 @@
+{
+	"name": "79393918915/kilesh",
+	"description": "Kilesh - PHP library for declension of cases in tatar language.",
+	"keywords": [
+		"tatar", "tatarcha", "incline"
+	],
+	"homepage": "https://github.com/79393918915/kilesh",
+	"license": "MIT",
+	"support": {
+		"issues": "https://github.com/79393918915/kilesh"
+	},
+	"authors": [
+		{
+		    "name": "Firyza Kayumova", 
+			"email": "79872633268l@gmail.com", 
+			"homepage": "https://github.com/79393918915"
+		}		
+	],
+	"require": {
+		"php": ">=7.0",
+		"phpdocumentor/phpdocumentor": "2.*"
+	},
+	
+	"autoload": {
+		"psr-4": {
+			"kilesh\\": "src\\"
+		}
+	}
+}
