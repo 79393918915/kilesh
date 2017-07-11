@@ -14,7 +14,7 @@ namespace kilesh;
 class kilesh
 { 
     /**
-     * Input word.
+     * Input word.....
      */
 	public $inputText; 
 	/**
